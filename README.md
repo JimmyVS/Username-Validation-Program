@@ -47,6 +47,6 @@ The program enforces the following username validation rules:
 
 This program is created by Jimgr1. Please do not publish the code or claim it as your own.
 
-# Disclaimer
+## Disclaimer
 
 This program is provided as-is. It may not cover all possible edge cases for username validation, and improvements or modifications may be necessary to suit specific use cases.
