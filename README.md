@@ -28,7 +28,7 @@ The program enforces the following username validation rules:
 
     The username must be shorter than 8 characters but longer than 2 characters.
     The username must not contain any spaces.
-    The username must not include any of the following forbidden symbols: ~!@#$%^&*()-_+={}[]:;'",<>.?/.
+    The username must not include any of the symbols.
 
 License
 
